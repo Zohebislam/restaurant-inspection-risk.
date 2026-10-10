@@ -2,6 +2,8 @@
 
 Predicting which Chicago restaurants are most likely to fail their next health inspection, so inspectors can visit the riskiest ones first.
 
+App link: https://restaurant-inspection-risk.streamlit.app/ 
+
 **Status:** Step 1 (data collection, cleaning, and exploration), step 2 (features and first models), step 3 (outside data), step 4 (business simulation), and step 5 (Streamlit app) complete.
 
 ## The business question
