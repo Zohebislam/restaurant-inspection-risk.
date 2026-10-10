@@ -1,0 +1,8 @@
+# App colors, based on the Chicago city flag
+[theme]
+base = "light"
+primaryColor = "#E4002B"
+backgroundColor = "#F3F8FB"
+secondaryBackgroundColor = "#E3EFF6"
+textColor = "#10263B"
+font = "sans serif"
