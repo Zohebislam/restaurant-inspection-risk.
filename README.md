@@ -88,7 +88,3 @@ Tested on 15,363 routine inspections from January 2024 to October 2026, using a 
 
 **What didn't:** nearby 311 rodent and sanitation complaints and weather barely changed results ([report](reports/model_results_plus.md)), so a restaurant's own track record carries most of the signal. Logistic regression performed about as well as gradient boosting.
 
-## Possible extensions
-- Add Yelp review text as an early warning signal
-- Calibrate the model's scores so they read as true probabilities
-- Deploy the app on Streamlit Community Cloud
